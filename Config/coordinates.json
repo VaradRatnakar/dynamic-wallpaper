@@ -1,0 +1,44 @@
+{
+    "Monday": {
+        "left": 258,
+        "top": 302,
+        "right": 578,
+        "bottom": 574
+    },
+    "Tuesday": {
+        "left": 605,
+        "top": 297,
+        "right": 958,
+        "bottom": 583
+    },
+    "Wednesday": {
+        "left": 1034,
+        "top": 298,
+        "right": 1402,
+        "bottom": 576
+    },
+    "Thursday": {
+        "left": 1429,
+        "top": 300,
+        "right": 1819,
+        "bottom": 588
+    },
+    "Friday": {
+        "left": 210,
+        "top": 586,
+        "right": 602,
+        "bottom": 881
+    },
+    "Saturday": {
+        "left": 616,
+        "top": 600,
+        "right": 1011,
+        "bottom": 881
+    },
+    "Sunday": {
+        "left": 1059,
+        "top": 595,
+        "right": 1408,
+        "bottom": 890
+    }
+}

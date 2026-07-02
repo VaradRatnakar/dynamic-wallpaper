@@ -1,0 +1,3 @@
+Pillow
+Open-CV
+num py
